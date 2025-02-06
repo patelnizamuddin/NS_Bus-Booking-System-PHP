@@ -99,7 +99,7 @@
 					<h1>FAQs</h1>
 					<h2>Frequently Asked Questions</h2>
 					<div class="line"></div>
-					<p>Answers to Common Queries  Our Bus Booking Platform</p>
+					<p>Answers to Common Queries About Our Bus Booking Platform</p>
 				</div>
 			</div>
 		</div>
