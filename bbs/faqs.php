@@ -153,7 +153,7 @@
     </div>
 
     <div class="list-block block-four-1">
-        <h2 class="frequently_questions_grid_h4">Will eeI get a refund if I cancel my ticket?</h2>
+        <h2 class="frequently_questions_grid_h4">Will I get a refund if I cancel my ticket?</h2>
         <p>Refunds depend on the cancellation policy of the bus operator and how close the cancellation is to the departure time.</p>
     </div>
 
