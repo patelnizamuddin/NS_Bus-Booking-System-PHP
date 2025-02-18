@@ -123,7 +123,7 @@
     </div>
 
     <div class="list-block block-three">
-        <h2 class="frequently_questions_grid_h4">How do I reset my password?</h2>
+        <h2 class="frequently_questions_grid_h4">How doo I reset my password?</h2>
         <p>Use the "Forgot Password" option on the login page to reset your password via email or phone verification.</p>
     </div>
 
